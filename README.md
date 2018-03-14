@@ -3,6 +3,7 @@
 See doc/README.txt and the other files there for information.
 
 Original source: nagelfar.sourceforge.net
+
 Original License: GNUv2
 
 ### Additions
